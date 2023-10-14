@@ -46,7 +46,7 @@ Checklist can be used for:
 
 ## Contributing
 
-We welcome contributions to Checklist. Please refer to our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to get involved.
+We welcome contributions to Checklist. Please refer to our [Contributing Guidelines](Contributing.md) for more information on how to get involved.
 
 ## License
 
